@@ -1,2 +1,1 @@
-def helloworld():
-    return 'Hello world'
+from .helloworld import helloworld
