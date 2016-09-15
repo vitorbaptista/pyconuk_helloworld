@@ -17,7 +17,7 @@ setup(
     version='0.0.1',
     description='A hello world package',
     long_description=read('README.rst'),
-    url='https://github.com/vitorbaptista/helloworld',
+    url='https://github.com/vitorbaptista/pyconuk_helloworld',
     author='Vitor Baptista',
     author_email='vitor@vitorbaptista.com',
     license='MIT',
