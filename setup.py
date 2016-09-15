@@ -14,7 +14,7 @@ def read(*parts):
 
 setup(
     name='pyconuk_helloworld',
-    version='0.0.1',
+    version='0.1.0',
     description='A hello world package',
     long_description=read('README.rst'),
     url='https://github.com/vitorbaptista/pyconuk_helloworld',
