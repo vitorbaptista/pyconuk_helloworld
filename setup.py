@@ -12,6 +12,7 @@ def read(*parts):
     with codecs.open(os.path.join(BASE_PATH, *parts), 'rb', 'utf-8') as f:
         return f.read()
 
+
 setup(
     name='pyconuk_helloworld',
     version='0.1.0',
